@@ -130,7 +130,7 @@ in the flow.
 
 | Nothing
 | `type Nothing = Nothing`
-| Bottom type. This type is can be assigned to all the types
+| Bottom type. This type can be assigned to all the types
 
 
 | Null
@@ -140,7 +140,7 @@ in the flow.
 
 | Number
 | `type Number = Number`
-| A number any number decimals and integers are represented by `Number` type
+| A number type. Any number, decimals and integers are represented by `Number` type
 
 
 | Object
